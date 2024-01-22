@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\James\\source\\repos\\technical_exam\\technical_exam.Server\\..\\technical_exam.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

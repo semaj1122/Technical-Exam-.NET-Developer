@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "iO08e2XEw7ceP5TT7+K/yRgaTm1gCV/EpEC/FrX99iQ=",
+  "Source": "technical_exam.Server",
+  "BasePath": "_content/technical_exam.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\James\\source\\repos\\technical_exam\\technical_exam.client\\technical_exam.client.esproj",
+      "Version": 2,
+      "Source": "technical_exam.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
